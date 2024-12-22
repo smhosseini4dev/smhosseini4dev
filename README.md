@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @smhosseini4dev
-- 👀 I’m interested in Jakarata EE, Mobile Programming, JS and PHP
-- 🌱 I’m currently learning JavaFX, React Native and NodeJS
+- 👀 I’ve written programs in Python, PHP, SpringBoot and JavaFx
+- 🌱 I’m currently learning .Net
 - 💞️ I’m looking to collaborate on Innovative Projects
 - 📫 How to reach me: hosseini.web@gmail.com
 
